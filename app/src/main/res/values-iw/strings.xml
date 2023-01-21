@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">OwO Player</string>
+    <string name="title_home">בית</string>
+    <string name="title_albums">אלבומים</string>
+    <string name="title_playing">מתנגן</string>
+    <string name="title_setting">הגדרות</string>
+    <string name="unknown">לא ידוע</string>
+    <string name="albums_art">תמונת אלבום</string>
+
+    <!-- Playing Fragment -->
+    <string name="SongLoop">הפעלה חוזרת של שיר</string>
+    <string name="ListPlay">הפעל רשימת שמע</string>
+    <string name="ListLoop">הפעלה חוזרת של רשימת שמע</string>
+    <string name="RandomPlay">הפעלה מקרית</string>
+    <string name="next_play">השיר הבא</string>
+    <string name="previous_play">השיר הקודם</string>
+    <string name="pause">השהה</string>
+    <string name="play">הפעל</string>
+    <string name="playing">מתנגן</string>
+    <string name="volume_up">הגבר עוצמת שמע</string>
+    <string name="volume_down">הנמך עוצמת שמע</string>
+    <string name="now_mute">עכשיו: מושתק</string>
+    <string name="now_unmute">עכשיו: לא מושתק</string>
+    <string name="now_voice100">%d  %%</string>
+
+    <!-- Preference Titles -->
+    <string name="sync_header">סנכרון</string>
+    <string name="music_header">מוזיקה</string>
+
+    <!-- Music Preferences -->
+    <string name="signature_title">החתימה שלך</string>
+    <string name="ignoreCacheAlbumArt">התעלם מזיכרון זמני של תמונות אלבום</string>
+    <string name="reply_title">פעולת ברירת מחדל של תשובה</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">סינכרון דואר אלקטרוני מעת לעת</string>
+    <string name="attachment_title">הורדת קבצים מורפים מדואר נכנס</string>
+    <string name="attachment_summary_on">הורדה אוטומטית של קבצים מצורפים מדואר נכנס
+    </string>
+    <string name="attachment_summary_off">הורדת קבצים מצורפים באופן ידני</string>
+    <string name="app_header">אפליקציה</string>
+    <string name="load_album_art_title">טען תמונת אלבום</string>
+    <string name="load_album_art_summary_off">השהה טעינת אלבומים</string>
+    <string name="load_album_art_summary_on">המשך את טעינת האלבומים</string>
+    <string name="update_media_store_title">עדכון אחסון מדיה (Media Store)</string>
+    <string name="update_media_store_summary">כפה רענון של ספריית השירים</string>
+    <string name="clear_cache_title">ניקוי זיכרון זמני</string>
+    <string name="clear_cache_summary">נקה את הזיכרון הזמני של התוכנית</string>
+    <string name="not_yet_supported">לא נתמך</string>
+    <string name="cleaned_up">נוקה</string>
+    <string name="take_effect_after_restart">השינויים יכנסו לתוקף לאחר הפעלה מחדש</string>
+    <string name="play_header">נגן</string>
+    <string name="useExoPlayer">שימוש בExoPlayer</string>
+</resources>

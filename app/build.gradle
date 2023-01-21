@@ -13,8 +13,8 @@ android {
         minSdkVersion 16
         //noinspection ExpiredTargetSdkVersion
         targetSdkVersion 26
-        versionCode 48
-        versionName "Alpha 0.4.2"
+        versionCode 1
+        versionName 'AIV first realse'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
