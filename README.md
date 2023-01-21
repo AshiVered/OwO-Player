@@ -11,4 +11,4 @@ Qin1s+ MusicPlayer
 - 8 Volume down
 
 ## Download
-From the (releases page)[https://github.com/AshiVered/OwO-Player/releases]
+From the [releases page](https://github.com/AshiVered/OwO-Player/releases)
